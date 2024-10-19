@@ -1,2 +1,2 @@
-# estudar
-Repo para estudar
+# Estudar
+Repositorio de estudo.
